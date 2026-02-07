@@ -1,8 +1,6 @@
 ### chocomint ice enthusiast 🍫🧊
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__mgn0/) 
 
-![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtsmgn0&show_icons=true&theme=dracula)
-
 <center><h1>✎tecnologias </h1></center>
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
